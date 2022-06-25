@@ -12,5 +12,5 @@ Express.js, HTML, CSS, JavaScript
 
 ## Snapshots
 
-![Whether](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202021-05-28%20at%203.47.15%20PM.png?raw=true)
+![Whether](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202021-05-28%20at%203.47.15%20PM.png?raw=true)
 
